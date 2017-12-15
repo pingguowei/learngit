@@ -9,3 +9,6 @@ git add
 git commit
 git status
 git diff
+
+001
+002
